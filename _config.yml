@@ -1,4 +1,4 @@
-layout_spectrum: 0
+typography_spectrum: 0.6617022
 color:
   saturation: 1
   brandStrength: 0.387563
@@ -10,5 +10,6 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-typography_spectrum: 0.6617022
+layout_spectrum: 0
 name: EmpreendedorJr
+title: Empreendedor Jr.
